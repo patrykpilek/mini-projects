@@ -2,4 +2,4 @@
 
 Email Subscribe mini-project from my Tailwind course.
 
-![Alt text](/images/email-subscribe.png)
+![Alt text](https://github.com/patrykpilek/mini-projects/blob/main/email-subscribe/images/email-subscribe.png?raw=true)
