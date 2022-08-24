@@ -4,4 +4,4 @@
 - [x] Image Gallery Project
 - [x] Login Modal Project
 - [x] Pricing Cards Project
-- [ ] Product Modal Project
+- [x] Product Modal Project
